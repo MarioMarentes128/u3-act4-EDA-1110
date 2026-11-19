@@ -41,14 +41,14 @@
 ## 19. Gráfica de barras: Salarios por empleado
 ![alt text](image-10.png)
 
-
+## 20. Histograma: Distribución de edades
 ![alt text](image-11.png)
 
-
+## 21. Gráfica de dispersión: Edad vs Salario
 ![alt text](image-12.png)
 
-
+## 22. Diagrama de caja: Distribución de salarios
 ![alt text](image-13.png)
 
-
+## 23. Matriz de correlació
 ![alt text](image-14.png)
