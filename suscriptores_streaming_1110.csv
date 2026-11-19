@@ -1,0 +1,7 @@
+﻿id_usuario,nombre,plan,fecha_inicio,pago_mensual,horas_vistas_mes,dispositivos_registrados,metodo_pago,renovacion_automatica,estado
+801,Ana,Basico,2022-01-01,139,15,2,Tarjeta,True,Activo
+802,Luis,Estandar,2021-05-15,199,30,3,PayPal,True,Activo
+803,Sofia,Premium,2023-03-10,299,45,4,Tarjeta,True,Activo
+804,Carlos,Basico,2022-08-20,139,10,1,Transferencia,False,Cancelado
+805,Maria,Premium,2020-11-05,299,50,4,Tarjeta,True,Activo
+806,Jorge,Estandar,2023-01-10,199,25,2,PayPal,True,Activo
